@@ -64,16 +64,9 @@ Dive into a treasure trove of tools crafted for manga artists and animators:
 ### Preview
 
 **Manga Sketch Canvas**  
-![Manga Canvas](https://i.ytimg.com/vi/1x1z1x1y1zE/maxresdefault.jpg)  
+![Manga Canvas](https://p16-capcut-cms-sg.ibyteimg.com/tos-alisg-i-6rr7idwo9f-sg/1726825189402.image~tplv-6rr7idwo9f-image.image)  
 *Canvas for sketching manga panels with AI Colorization and dynamic brushes.*  
 
-**AI Pose Workshop**  
-![Pose Workshop](https://i.ytimg.com/vi/2x2z2x2y2zE/maxresdefault.jpg)  
-*Workshop for crafting anime poses with AI Pose Scanner’s magic touch.*  
-
-**Animation Storyboard Hub**  
-![Storyboard Hub](https://i.ytimg.com/vi/3x3z3x3y3zE/maxresdefault.jpg)  
-*Hub for building 2D animations with AI Frame Interpolation and templates.*  
 
 ---
 
